@@ -1,4 +1,4 @@
-<!-- [![](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/arxiv-to-hf/icfbnjkijgggnhmlikeppnoehoalpcpp) -->
+[![](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/follows-me-tag-for-github/fhanencagagbidhlhpglgffeomjpbfjp)
 
 # Follows You?
 
