@@ -6,4 +6,4 @@ Chrome extension to add a tag indicating whether a user follows you on GitHub.
 
 ## Screenshot
 
-![](./assets/screenshot.jpg)
+![](./assets/screenshot.png)
