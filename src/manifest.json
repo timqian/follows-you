@@ -1,0 +1,22 @@
+{
+	"manifest_version": 3,
+	"name": "Follows Me Tag for GitHub",
+	"description": "Adds a tag indicating whether a user follows you on GitHub.",
+	"version": "1.0",
+	"content_scripts": [
+		{
+			"js": [
+				"scripts/content.js"
+			],
+			"matches": [
+				"https://github.com/*"
+			]
+		}
+	],
+	"host_permissions": [
+		"https://api.github.com/*"
+	],
+	"icons": {
+		"128": "icon.png"
+	}
+}
