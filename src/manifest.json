@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"name": "Follows Me Tag for GitHub",
+	"name": "Follows You Tag for GitHub",
 	"description": "Adds a tag indicating whether a user follows you on GitHub.",
 	"version": "1.0",
 	"content_scripts": [
