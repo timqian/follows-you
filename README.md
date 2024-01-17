@@ -2,7 +2,7 @@
 
 # Follows You?
 
-Adds a tag indicating whether a user follows you on GitHub
+Check if a user is following you on GitHub.
 
 ## Screenshot
 
