@@ -12,4 +12,4 @@ When a user follows you:
 When a user is not following you:
 ![](./assets/screenshot3.png)
 
-If no tag show up, it means the extension have trouble accessing github APIs.
+If no tags appear, it does not necessarily mean the user isn't following you; it could be that the extension failed to access GitHub's APIs or encountered other issues. Feel free to report a bug if you experience this problem
