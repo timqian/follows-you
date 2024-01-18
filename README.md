@@ -4,6 +4,12 @@
 
 Check if a user is following you on GitHub.
 
-## Screenshot
+## Screenshots
 
+When a user follows you:
 ![](./assets/screenshot2.png)
+
+When a user is not following you:
+![](./assets/screenshot3.png)
+
+If no tag show up, it means the extension have trouble accessing github APIs.
